@@ -48,6 +48,7 @@ Apache Commons IO
 [![Javadocs](https://javadoc.io/badge/commons-io/commons-io/2.20.0.svg)](https://javadoc.io/doc/commons-io/commons-io/2.20.0)
 [![CodeQL](https://github.com/apache/commons-io/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/apache/commons-io/actions/workflows/codeql-analysis.yml)
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/apache/commons-io/badge)](https://api.securityscorecards.dev/projects/github.com/apache/commons-io)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhusnag95%2Fcommons-io.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhusnag95%2Fcommons-io?ref=badge_shield)
 
 The Apache Commons IO library contains utility classes, stream implementations, file filters,
 file comparators, endian transformation classes, and much more.
@@ -118,3 +119,6 @@ Apache Commons Components
 -------------------------
 
 Please see the [list of components](https://commons.apache.org/components.html)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhusnag95%2Fcommons-io.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhusnag95%2Fcommons-io?ref=badge_large)
